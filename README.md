@@ -1,5 +1,6 @@
 ### Hi there 👋
 *to be filled*
+This account is archived, the new and only account is now [this](https://github.com/0xchilli) 
 <!--
 **Q00R/Q00R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This account is archived, the new and only account is now [this](https://github.com/0xchilli) 
+
 ![octocat](./github_loading_octocat.gif)
 [![Q00R's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q00R)](https://github.com/anuraghazra/github-readme-stats)
