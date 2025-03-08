@@ -1,4 +1,4 @@
-### This account is archived, the new and only account is now [this](https://github.com/0xchilli) 
+### This account is archived, the new and only account is [0xChilli](https://github.com/0xchilli) 
 <!--
 **Q00R/Q00R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
